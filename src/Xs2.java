@@ -120,6 +120,7 @@ public class Xs2 {
             sum += salaries[i];
         }
         do {
+            System.out.println("--- QUẢN LÝ LƯƠNG NHÂN VIÊN ---");
             System.out.println("1. Xem danh sách lương");
             System.out.println("2. Sắp xếp lương");
             System.out.println("3. Tìm kiếm lương cụ thể");
